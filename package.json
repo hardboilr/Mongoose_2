@@ -1,0 +1,17 @@
+{
+    "name": "Mongoose_2",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Tobias Jacobsen",
+    "contributors": [],
+    "main":"server.js",
+    "dependencies": {
+        "express":"~4.13.4",
+        "mongoose":"~4.4.7",
+        "body-parser":"~1.15.0"
+        },
+    "scripts": {
+        "start": "node main.js"
+    }
+
+}
